@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ayush Rathore - Data Scientist & Python Developer</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    text-align: left;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Ayush Rathore</h1>
+    <p>Data Scientist & Python Developer</p>
+    <p>Bengaluru, Karnataka, India</p>
+    <p>rathore12180@gmail.com | <a href="https://www.linkedin.com/in/rathore10">(LinkedIn)</a></p>
+</header>
+
+<section>
+    <h2>Summary</h2>
+    <p>Diving headfirst into the data jungle, where curiosity meets innovation and big ideas come to life... I am Ayush Rathore, a seasoned data scientist and Python developer based in Bengaluru. With a substantial background in data extraction, I have honed my skills in scraping millions of data entries and providing insightful backend solutions. My internships at various startups have allowed me to further refine my expertise. In these roles, I successfully managed and processed large datasets using various tools offering innovative solutions to complex data challenges.</p>
+</section>
+
+<section>
+    <h2>Experience</h2>
+
+    <h3>CEO | Founder | Developer | Salesman (All Roles) - Concurrence.ai</h3>
+    <p>July 2024 - Present (3 months) - Bangalore Urban, Karnataka, India</p>
+    <p>Manage your communities using AI! Interested? Let's have a chat! <a href="https://calendly.com/notrathore-proton/concurrence-ai-initial-call">Schedule a Call</a></p>
+
+    <h3>Freelance Software Engineer - Freelance</h3>
+    <p>March 2024 - Present (7 months)</p>
+    <ul>
+        <li>Contributed to a Singapore-based Web3 company, helping them fetch and analyze security audit reports from the top 100 auditing companies, dealing with more than 5000 reports daily, and utilizing AI to extract meaningful statistics and information.</li>
+        <li>Delivered 1.2 million products data to a Czech-based hardware company within 30 days, utilizing Python and ML libraries for captcha bypass, supported by an in-house proxy subnet.</li>
+        <li>Spearheaded a team for a landing page project for the aforementioned company, resulting in 2190+ unique visitors and 16230 requests from 15+ countries within the initial month.</li>
+        <li>Supported a German marketing agency in automating outreach messages, resulting in daily time efficiency improvements of 40 to 50%, with 1000 to 1200 messages sent per day.</li>
+        <li>Created an automation pipeline for a Vietnam-based company to log in to 2500 different emails per day.</li>
+    </ul>
+
+    <!-- Additional experience entries can be added here -->
+
+</section>
+
+<section>
+    <h2>Education</h2>
+
+    <h3>Sir M Visvesvaraya Institute Of Technology</h3>
+    <p>BE - CSE (December 2021 - August 2025)</p>
+
+    <h3>Kendriya Vidyalaya</h3>
+    <p>Class 12 Board, None (2019 - 2020)</p>
+
+    <h3>Kendriya Vidyalaya No.-2 AFS Jalahalli East</h3>
+    <p>(December 2012 - August 2019)</p>
+</section>
+
+</body>
+</html>
