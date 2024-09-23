@@ -59,3 +59,16 @@ Flask
 PyPDF2
 OpenAI
 python-dotenv
+
+
+**Use Cases for this project are**
+
+1. Quickly Convert LinkedIn Profiles: Professionals can easily transform their LinkedIn PDF exports into visually appealing, structured HTML resumes without manually formatting.
+
+2. Tailored Resume Customization: Users can generate professional resumes customized to specific job applications, allowing quick adjustments to design and layout as needed.
+
+3. Recruitment Tools: Recruitment agencies or HR departments can integrate the tool to help candidates submit well-formatted resumes, ensuring consistency in presentation.
+
+4. Portfolio Building: Freelancers or job seekers can use it to create an online portfolio of HTML resumes that can be shared via personal websites or email for better visibility.
+
+5. Resume Review Platforms: It can be integrated into resume review services to format and improve the design of submitted resumes, ensuring professionalism and readability.
